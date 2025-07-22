@@ -27,7 +27,7 @@ def calc_cost(prompt_tokens: int, completion_tokens: int) -> float:
 
 
 # ---------- 1. UI ----------
-st.set_page_config(page_title="Kimi Analyst", layout="wide")
+st.set_page_config(page_title="Data Analyst", layout="wide")
 st.title("📊 Data Analyst – Quick Data Copilot")
 
 ALLOWED = [
