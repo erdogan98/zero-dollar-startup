@@ -1,0 +1,94 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="72">
+            <item index="0" class="java.lang.String" itemvalue="keras" />
+            <item index="1" class="java.lang.String" itemvalue="dotenv" />
+            <item index="2" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="3" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="6" class="java.lang.String" itemvalue="selenium" />
+            <item index="7" class="java.lang.String" itemvalue="flask-cors" />
+            <item index="8" class="java.lang.String" itemvalue="redis" />
+            <item index="9" class="java.lang.String" itemvalue="locust" />
+            <item index="10" class="java.lang.String" itemvalue="geopy" />
+            <item index="11" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="12" class="java.lang.String" itemvalue="shapely" />
+            <item index="13" class="java.lang.String" itemvalue="pip-tools" />
+            <item index="14" class="java.lang.String" itemvalue="Brotli" />
+            <item index="15" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="16" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="17" class="java.lang.String" itemvalue="geocoder" />
+            <item index="18" class="java.lang.String" itemvalue="Flask-Login" />
+            <item index="19" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="20" class="java.lang.String" itemvalue="websocket-client" />
+            <item index="21" class="java.lang.String" itemvalue="playwright" />
+            <item index="22" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="23" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="24" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="25" class="java.lang.String" itemvalue="mdurl" />
+            <item index="26" class="java.lang.String" itemvalue="Flask-Bcrypt" />
+            <item index="27" class="java.lang.String" itemvalue="geographiclib" />
+            <item index="28" class="java.lang.String" itemvalue="Flask-JWT-Extended" />
+            <item index="29" class="java.lang.String" itemvalue="gevent" />
+            <item index="30" class="java.lang.String" itemvalue="googlemaps" />
+            <item index="31" class="java.lang.String" itemvalue="Flask-Limiter" />
+            <item index="32" class="java.lang.String" itemvalue="zope.event" />
+            <item index="33" class="java.lang.String" itemvalue="pyee" />
+            <item index="34" class="java.lang.String" itemvalue="python-jose" />
+            <item index="35" class="java.lang.String" itemvalue="limits" />
+            <item index="36" class="java.lang.String" itemvalue="passlib" />
+            <item index="37" class="java.lang.String" itemvalue="coverage" />
+            <item index="38" class="java.lang.String" itemvalue="Flask-Cors" />
+            <item index="39" class="java.lang.String" itemvalue="requests-mock" />
+            <item index="40" class="java.lang.String" itemvalue="ordered-set" />
+            <item index="41" class="java.lang.String" itemvalue="pyproject_hooks" />
+            <item index="42" class="java.lang.String" itemvalue="waitress" />
+            <item index="43" class="java.lang.String" itemvalue="cryptography" />
+            <item index="44" class="java.lang.String" itemvalue="ecdsa" />
+            <item index="45" class="java.lang.String" itemvalue="rich" />
+            <item index="46" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="47" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="48" class="java.lang.String" itemvalue="ratelim" />
+            <item index="49" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="50" class="java.lang.String" itemvalue="flask-talisman" />
+            <item index="51" class="java.lang.String" itemvalue="build" />
+            <item index="52" class="java.lang.String" itemvalue="future" />
+            <item index="53" class="java.lang.String" itemvalue="geventhttpclient" />
+            <item index="54" class="java.lang.String" itemvalue="ConfigArgParse" />
+            <item index="55" class="java.lang.String" itemvalue="msgpack" />
+            <item index="56" class="java.lang.String" itemvalue="multiprocessing" />
+            <item index="57" class="java.lang.String" itemvalue="openai" />
+            <item index="58" class="java.lang.String" itemvalue="conda" />
+            <item index="59" class="java.lang.String" itemvalue="torch" />
+            <item index="60" class="java.lang.String" itemvalue="numpy" />
+            <item index="61" class="java.lang.String" itemvalue="torchvision" />
+            <item index="62" class="java.lang.String" itemvalue="kombu" />
+            <item index="63" class="java.lang.String" itemvalue="streamlit" />
+            <item index="64" class="java.lang.String" itemvalue="ffmpeg-python" />
+            <item index="65" class="java.lang.String" itemvalue="openai-whisper" />
+            <item index="66" class="java.lang.String" itemvalue="Django" />
+            <item index="67" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="68" class="java.lang.String" itemvalue="django-celery-beat" />
+            <item index="69" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="70" class="java.lang.String" itemvalue="celery" />
+            <item index="71" class="java.lang.String" itemvalue="django-celery-results" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
