@@ -171,5 +171,5 @@ if uploaded:
 
         # --- Show answer + live cost ---
         st.markdown(reply)
-        cost = calc_cost(prompt_tokens, completion_tokens)
-        st.caption(f"💰 Cost for this run: **${cost:.5f}**")
+        # cost = calc_cost(prompt_tokens, completion_tokens)
+        # st.caption(f"💰 Cost for this run: **${cost:.5f}**")
