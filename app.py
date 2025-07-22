@@ -32,11 +32,8 @@ st.title("📊 Data Analyst – Quick Data Copilot")
 
 ALLOWED = [
     "csv", "xlsx",
-    "txt", "md", "tsv",
+    "txt", "tsv",
     "pdf", "doc", "docx", "ppt", "pptx",
-    "html", "xml", "json", "yaml", "yml",
-    "py", "js", "java", "cpp", "c", "sql",
-    "epub"
 ]
 
 uploaded = st.file_uploader(
