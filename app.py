@@ -173,3 +173,4 @@ if uploaded:
         st.markdown(reply)
         # cost = calc_cost(prompt_tokens, completion_tokens)
         # st.caption(f"💰 Cost for this run: **${cost:.5f}**")
+        st.caption("Made by Erdoğan Kervanlı for small businesses and individuals")
