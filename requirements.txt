@@ -1,5 +1,5 @@
 streamlit==1.36
-openai==1.30
+openai>=1.55.3
 duckdb==0.10
 plotly==5.18
 tiktoken
