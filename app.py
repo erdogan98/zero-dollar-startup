@@ -4,7 +4,7 @@ from openai import OpenAI
 from pathlib import Path
 
 # secrets
-client = OpenAI(
+client = openai.OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.getenv("OPENROUTER_KEY") or st.secrets.get("OPENROUTER_KEY"),
 )
